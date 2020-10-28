@@ -4,3 +4,5 @@ This is the day1 of out professional git class
 so we created a repository, opened in sublime and cretaed a new file under it, added these notes inside
 
 so that is it~~~
+
+well, I did it
