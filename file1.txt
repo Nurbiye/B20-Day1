@@ -5,4 +5,6 @@ so we created a repository, opened in sublime and cretaed a new file under it, a
 
 so that is it~~~
 
-well, I did it
+well,
+
+published to the github.com
